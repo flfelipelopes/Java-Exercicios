@@ -1,3 +1,5 @@
+//While Loop Exercise
+
 /**
  * Unit 2 Discussion Assignment
  * Give an example of a while loop, then provide the equivalent do-while and for loop.
