@@ -1,3 +1,5 @@
+//Syntax Errors - Exercise
+
 /**
  * Program to demonstrate syntax error with Java
  */
