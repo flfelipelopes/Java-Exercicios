@@ -1,3 +1,5 @@
+// Grades - Exercise
+
 import java.util.Scanner;
 
 public class Grades {
