@@ -1,3 +1,5 @@
+//QuizTwo - Exercise
+
 import javax.swing.*;
 
 public class QuizTwo {
