@@ -1,3 +1,5 @@
+// Enum - Exercise
+
 public class EnumDemo {
     // Define two enum types -- remember that the definitions
     // go OUTSIDE the main() routine!
