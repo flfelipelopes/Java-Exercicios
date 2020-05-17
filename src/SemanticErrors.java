@@ -1,3 +1,5 @@
+//Semantic Errors - Exercise
+
 /**
  * Program to illustrate semantic errors in Java.
  */
