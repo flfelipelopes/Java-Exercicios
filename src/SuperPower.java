@@ -1,3 +1,5 @@
+//Super Power - Exercise
+
 import javax.swing.JOptionPane;
 
 public class SuperPower {
